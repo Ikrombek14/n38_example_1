@@ -1,1 +1,10 @@
 print("salommmm")
+s
+aseasdads
+sd
+asd
+asd
+ads
+a
+sd
+asd
