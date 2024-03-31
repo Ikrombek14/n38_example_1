@@ -1,10 +1,4 @@
 print("salommmm")
-s
-aseasdads
-sd
-asd
-asd
-ads
-a
-sd
-asd
+n=int(input("kiriting"))
+for i in n:
+    print(i)
